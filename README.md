@@ -1,4 +1,4 @@
-# 📊 Sales Analytics Dashboard
+# Sales Analytics Dashboard
 
 Interactive Sales Analytics Dashboard built with **Python, Pandas, and Power BI** to analyze sales performance, customer behavior, profitability, and regional trends using the Superstore dataset.
 
@@ -6,13 +6,13 @@ This project demonstrates the complete analytics workflow, including data cleani
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 Businesses generate large amounts of sales data every day, but transforming raw data into actionable insights requires an effective analytics process.
 
@@ -20,17 +20,7 @@ This project analyzes historical sales transactions from the Superstore dataset 
 
 ---
 
-# 🎯 Project Objectives
-
-- Clean and prepare raw sales data using Python.
-- Perform exploratory data analysis (EDA).
-- Calculate key business performance indicators (KPIs).
-- Build an interactive Power BI dashboard.
-- Generate actionable business insights from historical sales.
-
----
-
-# 📂 Dataset
+# Dataset
 
 **Dataset:** Superstore Sales Dataset
 
@@ -100,7 +90,7 @@ The dashboard includes the following KPIs:
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
 The interactive dashboard contains:
 
@@ -133,7 +123,7 @@ Interactive geographic map displaying sales distribution.
 
 ---
 
-# 📊 Business Insights
+# Business Insights
 
 Some important findings from the dashboard include:
 
@@ -211,7 +201,7 @@ using Microsoft Power BI Desktop.
 
 ---
 
-# 📌 Skills Demonstrated
+# Skills Demonstrated
 
 - Python Programming
 - Data Cleaning with Pandas
@@ -225,13 +215,13 @@ using Microsoft Power BI Desktop.
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Laura Sofía Amado González**
 
 Systems Engineer
 
-📊 Data Analytics
+Data Analytics
 
 🤖 Machine Learning
 
